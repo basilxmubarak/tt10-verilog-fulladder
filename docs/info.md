@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+It adds the three one bit binary inputs and gives the outputs sum and carry
 
 ## How to test
 
-Explain how to use your project
+give three inputs to ui_in[0],ui_in[1],ui_in[2]
 
 ## External hardware
 
